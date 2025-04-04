@@ -5,10 +5,12 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 1. What is Software Engineering?
-Software engineering is the systematic, disciplined, quantifiable approach to the design, creation, testing, and maintenance of software and software systems. It involves applying engineering principles to software development to ensure that the software is reliable, efficient, and meets the needs of the users.
+software engineering is a branch of computer science used for developing, testing and maintaining software.
+reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
+efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+ scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+ security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
-Importance in the Technology Industry
-Software engineering is crucial in the technology industry because it drives innovation and development across various sectors. It enables the creation of complex systems, from mobile apps to enterprise solutions, that power modern businesses and everyday life. Effective software engineering practices ensure that software is robust, scalable, and secure, which is essential for the success of any technology-driven initiative.
 
 2. Key Milestones in the Evolution of Software Engineering
 1968 - NATO Software Engineering Conference: This conference marked the formal recognition of software engineering as a distinct discipline. It highlighted the need for systematic approaches to software development.
